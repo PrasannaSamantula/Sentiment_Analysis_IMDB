@@ -1,0 +1,1 @@
+This repository demonstrates a basic IMDB Sentiment Analysis project using a small sample of 15 movie reviews. It showcases text preprocessing, feature extraction (Bag of Words / TF-IDF), and sentiment classification using a machine learning model. This project is intended for learning and demonstration purposes.
