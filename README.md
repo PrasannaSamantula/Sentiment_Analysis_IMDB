@@ -1,4 +1,4 @@
-IMDB Sentiment Analysis (Mini Project)
+**IMDB Sentiment Analysis (Mini Project)**
 
 📌 Project Overview
 This repository demonstrates a **Sentiment Analysis system** built on **IMDB movie reviews** using Python and Machine Learning.  
